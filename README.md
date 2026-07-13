@@ -114,6 +114,36 @@ Used Active Directory Group Policy as the endpoint management fallback. Configur
 - Backup readiness
 - Azure monitoring and alerts
 - Group Policy configuration
+
+## Repository Structure
+
+The project is organised by project day and technical area.
+
+```text
+01-Project-Overview
+02-Azure-Foundation
+03-Azure-Networking
+04-Entra-ID-Users-Groups
+05-IAM-Access-Review
+06-Storage-RBAC
+07-RBAC-Access-Testing
+08-Azure-DevOps-Ticket-Tracking
+09-Finance-Access-Ticket-Resolution
+10-Sales-Access-Validation
+11-Log-Analytics-KQL
+12-Azure-Monitor-Alerts
+13-MSP-Expansion-Jira-Planning
+14-Jira-Service-Management-Setup
+15-Jira-SLA-MSP-Support-Structure
+16-Active-Directory-Build
+17-AD-Users-Groups-OUs
+18-AD-Helpdesk-Support
+19-AD-Entra-Identity-Review
+20-File-Server-Permissions
+21-Backup-Readiness
+22-Monitoring-Alerts
+23-Intune-Access-Review
+24-Group-Policy-Endpoint-Management
 - Endpoint management basics
 - Troubleshooting and documentation
 
