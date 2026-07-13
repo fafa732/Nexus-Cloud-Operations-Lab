@@ -110,10 +110,12 @@ Hands-on Jira evidence appears in:
 
 ## Day 15 — Jira SLA and MSP Support Structure
 
-- day15-jira-ticket-priority-view.png
-- day15-jira-ticket-status-view.png
-- day15-sla-mapping-notes.png
-- day15-escalation-workflow-notes.png
+No Day 15 screenshots are available.
+
+Day 15 was a service desk process and documentation phase.
+Hands-on Jira evidence appears in:
+- Day 14 — Jira Service Management Setup
+- Day 16 onward — Jira tickets linked to Active Directory, backup, monitoring, and endpoint management work
 
 ## Day 16 — Active Directory Build
 
