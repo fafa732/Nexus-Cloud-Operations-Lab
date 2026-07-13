@@ -96,10 +96,11 @@ Related hands-on evidence appears in later phases:
 
 ## Day 13 — MSP Expansion and Jira Service Management Planning
 
-- day13-expansion-plan-notes.png
-- day13-jira-service-management-introduction.png
-- day13-github-structure.png
-- day13-linkedin-plan.png
+No Day 13 screenshots are available.
+Day 13 was a planning and structure phase.
+Hands-on Jira evidence appears in:
+- Day 14 — Jira Service Management Setup
+- Day 15 — Jira SLA and MSP Support Structure
 
 ## Day 14 — Jira Service Management Setup
 
