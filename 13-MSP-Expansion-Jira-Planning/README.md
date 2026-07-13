@@ -45,7 +45,21 @@ The support structure included:
 
 ## Evidence
 
-Related screenshots are listed in:
+No Day 13 screenshots are available.
 
-```text
-SCREENSHOT-INDEX.md
+Day 13 was a planning and structure phase.
+
+The hands-on Jira Service Management evidence appears in:
+
+- Day 14 — Jira Service Management Setup
+- Day 15 — Jira SLA and MSP Support Structure
+
+## Important Note
+
+Day 13 was not a hands-on configuration day.
+
+Jira Service Management was selected and planned on Day 13, then set up and used from Day 14 onward.
+
+## Final Outcome
+
+The project was expanded into an MSP-style support lab, with Jira Service Management selected as the official ticketing platform for the remaining service desk documentation.
