@@ -38,11 +38,11 @@ Screenshot pending if not available.
 
 ## Day 5 — IAM Access Review
 
-- day05-iam-overview.png
-- day05-role-assignments-review.png
-- day05-finance-group-review.png
-- day05-disabled-user-review.png
-- day05-access-review-notes.png
+No Day 5 screenshots are available.
+
+Day 5 was documented as an IAM access review and least privilege planning phase.
+
+Related hands-on evidence appears in later phases:
 
 ## Day 6 — Storage RBAC
 
