@@ -1,18 +1,24 @@
 # Day 1 — Project Overview
 
-## Purpose
+## The Scenario
 
-This folder documents the starting point of the Nexus Cloud Operations Lab.
+Nexus Retail Group just opened its doors — on paper, at least.
 
-The project was created as a hands-on IT Support, Cloud Operations, and MSP-style service desk portfolio lab.
+It's a fictional retail company with five departments (IT, Finance, HR, Sales, and Warehouse), and none of them have a working IT foundation yet. No structured identity system. No ticketing process. No backup plan. No monitoring. If a laptop dies, a password gets locked out, or a file share goes down, there's no one — and no process — to catch it.
 
-## Scenario
+That's where this lab starts: as the IT function being built from the ground up for a company that needs one.
 
-Nexus Retail Group is a fictional organisation with multiple departments that need structured IT support, identity management, cloud administration, ticket tracking, backup readiness, monitoring, and endpoint management.
+## Why I Built It
+
+I wanted a portfolio project that didn't just *list* skills, but proved I could apply them the way a real service desk or MSP technician would — ticket by ticket, department by department. Instead of a single isolated demo (e.g. "here's an Azure VM I spun up"), Nexus Cloud Operations Lab is built as an ongoing body of support work across identity, infrastructure, and endpoints, all tied back to a real-feeling business with real-feeling problems.
+
+## What This Documents
+
+This folder marks the starting point of that lab — the setup before the first ticket gets worked.
 
 ## Target Roles
 
-This project is aligned with the following entry-level roles:
+This project is built to reflect the day-to-day of:
 
 - IT Support Technician
 - Service Desk Analyst
@@ -42,13 +48,13 @@ This project is aligned with the following entry-level roles:
 
 ## Project Outcome
 
-The project demonstrates practical support work across cloud identity, Azure infrastructure, Active Directory, Windows Server administration, file permissions, backup readiness, monitoring, ticketing, and endpoint management.
+Across the lab, this project demonstrates practical support work spanning cloud identity, Azure infrastructure, Active Directory, Windows Server administration, file permissions, backup readiness, monitoring, ticketing, and endpoint management — the kind of ground-level work that keeps a company like Nexus Retail Group running.
 
 ## Evidence
 
 Screenshots and notes for the full project are tracked in the root files:
 
-- SCREENSHOT-INDEX.md
-- TICKET-INDEX.md
-- RUNBOOK-INDEX.md
-- PROJECT-ROADMAP.md
+- `SCREENSHOT-INDEX.md`
+- `TICKET-INDEX.md`
+- `RUNBOOK-INDEX.md`
+- `PROJECT-ROADMAP.md`
